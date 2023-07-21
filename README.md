@@ -1,16 +1,16 @@
 # Supermarket Product Management System
 
 This is a Java program for a supermarket to manage their products. The program allows users to add, remove, and manage products in the supermarket's inventory. 
-Each product has various attributes such as name, base price, quality value, expiration date, and date added to the inventory. 
-The sell price of products are calculated automatically and it is based on their quality and base price.
-The program simulates the next 100 days and displays updates to products, their quality, and sell prices on each day of the simulation. This information will help users understand the program's behavior when they interact with it.
+Each product has various attributes such as name, base price, quality value, expiration date, and date added to the inventory and each product can be added to different shelves in the supermarket.
+The sell price of the products is calculated automatically and it is based on their quality and base price.
+The program simulates the next 100 days and displays updates to products, their quality, and sell prices on each day of the simulation. 
+This information will help to understand the program's behavior.
 
 ## Features
 
-- Add new products to the inventory manually in the code.
+- Add new products to the shelves manually in the code.
 - Manage product quality and sell price based on expiration date and product type.
 - Simulate product quality and sell price over multiple days.
-- Manage products on shelves with their associated information.
 - Import products from a CSV file.
 - (TODO) Import products from an SQLite database.
 
