@@ -1,0 +1,6 @@
+type,name,basePrice,maxSellPrice,minSellPrice,quality,minQuality,maxQuality,addedDate,expirationDate,canExpire,shelfName
+WineProduct,Red Wine,5.0,25.0,5.0,8,0,50,2023-08-01,2023-12-31,false,A
+CheeseProduct,Cheddar,8.0,5.0,3.0,6,0,30,2023-08-01,2024-01-15,true,B
+CheeseProduct,Cheddar 2,8.0,12.0,3.0,6,0,30,2023-08-01,2024-01-15,true,B
+WineProduct,Wine 2,8.0,20.0,3.0,6,0,30,2023-08-01,2024-01-15,false,A
+WineProduct,Wine 3,6.0,30.0,2.0,6,0,30,2023-08-01,2024-01-15,true,C
