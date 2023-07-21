@@ -31,4 +31,3 @@ You can customize the example product information in the `example_products.csv` 
 - (TODO) `products.db`: An example SQLite database containing product information for initialization.
 
 Feel free to use and modify the code as per your requirements.
-```
